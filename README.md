@@ -3,10 +3,10 @@
 <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=plastic&logo=react&logoColor=%2361DAFB"/><img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=plastic&logo=typescript&logoColor=white"/>
 
 ### The challenge is to make the user: 
-- should be able to add a task
-- should not be able to add a task with a empty title
-- should be able to remove a task
-- should be able to check a task
+- be able to add a task
+- not be able to add a task with a empty title
+- be able to remove a task
+- be able to check a task
 
 #### Function to add a new task
 ```
